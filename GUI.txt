@@ -1,0 +1,1 @@
+PlasticCard{FIO='jlkj', Currency='kjlkj', Date='1345', Number=243198, CardType='MasterCard', PIN=23421}
